@@ -30,6 +30,10 @@ RSA､X448､DES提供測試用金鑰，請勿用於加密任何機密資訊(密
 
 ---
 
+### 遇到問題或有任何意見？按[這裡](https://github.com/Samlan9/saml-cipher/discussions/1)回報
+
+---
+
 ## 開放原始碼授權條款：  
 ##### The pycryptodome module is copyrighted by Legrandin distributed under the following BSD license.  
 
