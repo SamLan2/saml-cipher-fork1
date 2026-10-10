@@ -11,7 +11,7 @@
 DES:使用64bits的密鑰和CTR模式。  
 AES:支援128､192､256bit的密鑰，更提供SIV模式來幫助減緩Nonce重複使用的風險。  
 RSA（支援加密檔案）:使用4096bit密鑰，結合了[PKCS#1 OAEP](https://en.wikipedia.org/wiki/PKCS_1)，更配合ChaCha20Poly1305來加密檔案。
-X448:使用了極為強大的X448加密演算法和非常節省資源的 CHACHA20POLY1305。  
+X448:使用了極為強大的X448加密演算法和非常節省資源的 CHACHA20POLY1305。    
 
 RSA､X448､DES提供測試用金鑰，請勿用於加密任何機密資訊(密碼：`test`)。
 
